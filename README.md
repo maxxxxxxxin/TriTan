@@ -5,4 +5,4 @@ pip install TriTan
 
 See tutorials in ./tutorial/
 
-related data could be found in Figshare with DOI:10.48420/23283998
+related data could be found in Figshare with DOI:10.48420/23283998 and DOI:10.48420/23289797
