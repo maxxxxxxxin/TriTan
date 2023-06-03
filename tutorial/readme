@@ -1,1 +1,3 @@
-Tutorials for using TriTan
+#Tutorials for using TriTan
+1. see GSE194122.ipynb for customized option regarding the usage of precomputed-SVD and the choice of the number of components.
+2. see PBMC-10K_downstream_analysis.ipynb for some examples of downstream analysis with outputs of TriTan
