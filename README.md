@@ -22,6 +22,9 @@
                 n_component= [20,50,20,50])
  
     n_modality: the number of the modalities
+    
     n_clusters：the number of the initial cluster setting for features' clustering
+    
     resolution: the initial number of clusters for cells' clustering
+    
     epoch: iteration times [must larger than 20]
