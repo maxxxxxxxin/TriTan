@@ -1,8 +1,6 @@
 # TriTan:An efficient triple non-negative matrix factorisation method for integrative analysis of single cell multi-omics data
 
-1. install from PyPI：
-
-   pip install TriTan
+1. install from PyPI： pip install TriTan
 
 2. See tutorials in ./tutorial/
 
