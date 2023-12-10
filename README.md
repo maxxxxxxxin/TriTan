@@ -1,28 +1,3 @@
-# TriTan:An efficient triple non-negative matrix factorisation method for integrative analysis of single cell multi-omics data
+# TriTan : An efficient triple non-negative matrix factorisation method for integrative analysis of single cell multi-omics data
 
-1. install from PyPI： pip install TriTan
-
-2. See tutorials in ./tutorial/
-
-3. Related data could be found in Figshare with DOI:10.48420/23283998 and DOI:10.48420/23289797
-
-4. Default : TriTan.TriTan(
-                n_modalities=2,
-                n_clusters = 100,
-                resolution=10,
-                epoch =30,
-                res_size=60,
-                complexity=5,
-                precomputed = False,
-                svd_rna= None,
-                svd_atac = None,
-                sparse = False,
-                n_component= [20,50,20,50])
- 
-    n_modality: the number of the modalities
-    
-    n_clusters：the number of the initial cluster setting for features' clustering
-    
-    resolution: the initial number of clusters for cells' clustering
-    
-    epoch: iteration times [must larger than 20]
+Usages and tutorials can be seen at https://tritan-tutorial.readthedocs.io/en/latest/index.html
