@@ -1,0 +1,6 @@
+scikit-learn
+scipy
+numpy
+numexpr
+hdbscan
+umap-learn
