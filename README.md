@@ -19,6 +19,6 @@ To use TriTan for triple or more modalities, using  TriTan/model/TriTan_multi.py
 Required Python Dependencies:
 ------------
 Install using pip:
-.. code-block:: console
+
 
        $ pip install -r requirements.txt
