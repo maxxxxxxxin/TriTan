@@ -4,16 +4,13 @@ Usages and tutorials can be seen at https://tritan-tutorial.readthedocs.io/en/la
 
 Datasets can be downloaded from https://doi.org/10.48420/23283998.v1 and https://doi.org/10.48420/23289797.v1
 
-Usage
-=====
-
-.. _installation:
-
-Installation
+Current usage:
 ------------
 
-To use TriTan, first install it using pip:
+To use TriTan for two-modality, install it using pip:
 
 .. code-block:: console
 
     (.venv) $ pip install TriTan
+
+To use TriTan for tri-modality, using  TriTan/model/TriTan_multi.py
