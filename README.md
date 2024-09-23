@@ -9,8 +9,6 @@ Current usage:
 
 To use TriTan for two-modality, install it using pip:
 
-.. code-block:: console
-
     (.venv) $ pip install TriTan
     
 -----------
