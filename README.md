@@ -12,5 +12,6 @@ To use TriTan for two-modality, install it using pip:
 .. code-block:: console
 
     (.venv) $ pip install TriTan
-
-To use TriTan for tri-modality, using  TriTan/model/TriTan_multi.py
+    
+-----------
+To use TriTan for triple or more modalities, using  TriTan/model/TriTan_multi.py
