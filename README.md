@@ -10,9 +10,6 @@ Current usage:
 To use TriTan for two-modality, install it using pip:
 
     (.venv) $ pip install TriTan
-    
------------
-To use TriTan for triple or more modalities, using  TriTan/model/TriTan_multi.py
 
 Required Python Dependencies:
 ------------
