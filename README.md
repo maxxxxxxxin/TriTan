@@ -7,7 +7,7 @@ Datasets can be downloaded from https://doi.org/10.48420/23283998.v1 and https:/
 Current usage:
 ------------
 
-To use TriTan for two-modality, install it using pip:
+To use TriTan, install it using pip:
 
     (.venv) $ pip install TriTan
 
